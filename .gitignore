@@ -1,0 +1,14 @@
+.venv/
+.direnv/
+__pycache__/
+*.pyc
+.env
+.envrc
+CLAUDE.local.md
+docs/
+.workspace/
+.openrig/
+.mcp.json
+.python-version
+splitwise_api_openapi*
+.claude/
